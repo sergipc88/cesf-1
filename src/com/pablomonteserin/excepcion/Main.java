@@ -1,4 +1,4 @@
-package com.pablomonteserin;
+package com.pablomonteserin.excepcion;
 
 import java.util.Iterator;
 import java.util.List;

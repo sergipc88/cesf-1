@@ -1,4 +1,4 @@
-package com.pablomonteserin;
+package com.pablomonteserin.excepcion;
 
 public class Servicios {
 	float getPrecioConIva(float precioSinIVA) throws PrecioDemasiadoAltoException {
