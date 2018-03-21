@@ -1,0 +1,164 @@
+
+mar. 16, 2018 15:10:05.54 NEW SESSION
+mar. 16, 2018 15:10:05.55 [Child 3488, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+mar. 16, 2018 15:10:05.55 [Child 3488, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+mar. 18, 2018 03:16:19.34 [Parent 3768, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+mar. 18, 2018 03:16:19.34 [Child 1332, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+mar. 18, 2018 03:16:19.36 [Child 2436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+mar. 18, 2018 03:16:19.36 
+mar. 18, 2018 03:16:19.36 ###!!! [Parent][MessageChannel] Error: (msgtype=0x150090,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+mar. 18, 2018 03:16:19.36 
+mar. 18, 2018 03:16:19.36 
+mar. 18, 2018 03:16:19.36 ###!!! [Parent][MessageChannel] Error: (msgtype=0x150084,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+mar. 18, 2018 03:16:19.36 
+mar. 18, 2018 03:16:19.36 
+mar. 18, 2018 03:16:19.36 ###!!! [Parent][MessageChannel] Error: (msgtype=0x150090,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+mar. 18, 2018 03:16:19.36 
+mar. 18, 2018 03:16:19.36 
+mar. 18, 2018 03:16:19.36 ###!!! [Parent][MessageChannel] Error: (msgtype=0x150084,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+mar. 18, 2018 03:16:19.36 
+mar. 18, 2018 03:16:19.36 [Child 2436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+mar. 18, 2018 03:16:19.41 
+mar. 18, 2018 03:16:19.41 ###!!! [Child][MessageChannel] Error: (msgtype=0x150001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+mar. 18, 2018 03:16:19.41 
+mar. 18, 2018 03:16:19.43 
+mar. 18, 2018 03:16:19.43 ###!!! [Child][MessageChannel] Error: (msgtype=0x150001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+mar. 18, 2018 03:16:19.43 
+mar. 18, 2018 03:16:19.43 
+mar. 18, 2018 03:16:19.43 ###!!! [Child][MessageChannel] Error: (msgtype=0x150001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+mar. 18, 2018 03:16:19.43 
+mar. 18, 2018 03:16:19.45 [Parent 3768, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+mar. 18, 2018 03:16:19.45 
+mar. 18, 2018 03:16:19.45 ###!!! [Parent][MessageChannel] Error: (msgtype=0x150090,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+mar. 18, 2018 03:16:19.45 
+mar. 18, 2018 03:16:19.45 
+mar. 18, 2018 03:16:19.45 ###!!! [Parent][MessageChannel] Error: (msgtype=0x150084,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+mar. 18, 2018 03:16:19.45 
+mar. 18, 2018 03:16:19.45 
+mar. 18, 2018 03:16:19.45 ###!!! [Parent][MessageChannel] Error: (msgtype=0x150090,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+mar. 18, 2018 03:16:19.45 
+mar. 18, 2018 03:16:19.45 
+mar. 18, 2018 03:16:19.45 ###!!! [Parent][MessageChannel] Error: (msgtype=0x150084,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+mar. 18, 2018 03:16:19.45 
+mar. 18, 2018 03:16:19.48 [Child 4308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+mar. 18, 2018 03:16:19.48 [Child 4308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+mar. 18, 2018 03:16:19.48 
+mar. 18, 2018 03:16:19.48 ###!!! [Child][MessageChannel] Error: (msgtype=0x150001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+mar. 18, 2018 03:16:19.48 
+mar. 18, 2018 03:16:19.48 
+mar. 18, 2018 03:16:19.50 ###!!! [Child][MessageChannel] Error: (msgtype=0x150001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+mar. 18, 2018 03:16:19.50 
+mar. 18, 2018 03:16:19.50 
+mar. 18, 2018 03:16:19.50 ###!!! [Child][MessageChannel] Error: (msgtype=0x150001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+mar. 18, 2018 03:16:19.50 
+mar. 18, 2018 03:16:19.50 
+mar. 18, 2018 03:16:19.50 ###!!! [Child][MessageChannel] Error: (msgtype=0x150001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+mar. 18, 2018 03:16:19.50 
+mar. 18, 2018 03:16:19.53 
+mar. 18, 2018 03:16:19.53 ###!!! [Child][MessageChannel] Error: (msgtype=0x150001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+mar. 18, 2018 03:16:19.53 
+mar. 18, 2018 03:16:19.57 [Parent 3768, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+mar. 18, 2018 03:16:19.59 
+mar. 18, 2018 03:16:19.59 ###!!! [Parent][MessageChannel] Error: (msgtype=0x150090,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+mar. 18, 2018 03:16:19.59 
+mar. 18, 2018 03:16:19.59 
+mar. 18, 2018 03:16:19.59 ###!!! [Parent][MessageChannel] Error: (msgtype=0x150084,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+mar. 18, 2018 03:16:19.59 
+mar. 18, 2018 03:16:19.59 
+mar. 18, 2018 03:16:19.59 ###!!! [Parent][MessageChannel] Error: (msgtype=0x150090,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+mar. 18, 2018 03:16:19.59 
+mar. 18, 2018 03:16:19.59 
+mar. 18, 2018 03:16:19.59 ###!!! [Parent][MessageChannel] Error: (msgtype=0x150084,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+mar. 18, 2018 03:16:19.59 
+mar. 18, 2018 03:16:19.59 [Child 2428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+mar. 18, 2018 03:16:19.59 [Child 2428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+mar. 18, 2018 03:16:19.59 
+mar. 18, 2018 03:16:19.59 ###!!! [Child][MessageChannel] Error: (msgtype=0x150001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+mar. 18, 2018 03:16:19.59 
+mar. 18, 2018 03:16:19.59 
+mar. 18, 2018 03:16:19.59 ###!!! [Child][MessageChannel] Error: (msgtype=0x150001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+mar. 18, 2018 03:16:19.62 
+mar. 18, 2018 03:16:19.64 
+mar. 18, 2018 03:16:19.64 ###!!! [Child][MessageChannel] Error: (msgtype=0x150001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+mar. 18, 2018 03:16:19.64 
+mar. 18, 2018 03:16:19.66 
+mar. 18, 2018 03:16:19.66 ###!!! [Child][MessageChannel] Error: (msgtype=0x150001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+mar. 18, 2018 03:16:19.66 
+mar. 18, 2018 03:16:19.66 
+mar. 18, 2018 03:16:19.66 ###!!! [Child][MessageChannel] Error: (msgtype=0x150001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+mar. 18, 2018 03:16:19.66 
+mar. 18, 2018 03:16:19.66 
+mar. 18, 2018 03:16:19.66 ###!!! [Child][MessageChannel] Error: (msgtype=0x150001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+mar. 18, 2018 03:16:19.66 
+mar. 18, 2018 03:16:19.69 
+mar. 18, 2018 03:16:19.69 ###!!! [Child][MessageChannel] Error: (msgtype=0x150001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+mar. 18, 2018 03:16:19.69 
+mar. 18, 2018 03:16:19.69 
+mar. 18, 2018 03:16:19.69 ###!!! [Child][MessageChannel] Error: (msgtype=0x150001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+mar. 18, 2018 03:16:19.69 
+mar. 18, 2018 03:16:19.74 
+mar. 18, 2018 03:16:19.74 ###!!! [Child][MessageChannel] Error: (msgtype=0x150001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+mar. 18, 2018 03:16:19.74 
+mar. 18, 2018 03:16:19.78 [Parent 3768, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+mar. 18, 2018 03:16:19.78 
+mar. 18, 2018 03:16:19.78 ###!!! [Parent][MessageChannel] Error: (msgtype=0x150090,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+mar. 18, 2018 03:16:19.78 
+mar. 18, 2018 03:16:19.78 
+mar. 18, 2018 03:16:19.78 ###!!! [Parent][MessageChannel] Error: (msgtype=0x150084,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+mar. 18, 2018 03:16:19.78 
+mar. 18, 2018 03:16:19.78 
+mar. 18, 2018 03:16:19.78 ###!!! [Parent][MessageChannel] Error: (msgtype=0x150090,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+mar. 18, 2018 03:16:19.78 
+mar. 18, 2018 03:16:19.78 
+mar. 18, 2018 03:16:19.78 ###!!! [Parent][MessageChannel] Error: (msgtype=0x150084,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+mar. 18, 2018 03:16:19.78 
+mar. 18, 2018 03:16:19.78 
+mar. 18, 2018 03:16:19.78 ###!!! [Parent][MessageChannel] Error: (msgtype=0x150090,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+mar. 18, 2018 03:16:19.78 
+mar. 18, 2018 03:16:19.78 
+mar. 18, 2018 03:16:19.78 ###!!! [Parent][MessageChannel] Error: (msgtype=0x150084,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+mar. 18, 2018 03:16:19.78 
+mar. 18, 2018 03:16:19.83 [Child 4080, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+mar. 18, 2018 03:16:19.83 [Child 4080, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+mar. 18, 2018 03:16:19.85 
+mar. 18, 2018 03:16:19.85 ###!!! [Child][MessageChannel] Error: (msgtype=0x150001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+mar. 18, 2018 03:16:19.85 
+mar. 18, 2018 03:16:19.87 
+mar. 18, 2018 03:16:19.87 ###!!! [Child][MessageChannel] Error: (msgtype=0x150001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+mar. 18, 2018 03:16:19.87 
+mar. 18, 2018 03:16:19.87 
+mar. 18, 2018 03:16:19.87 ###!!! [Child][MessageChannel] Error: (msgtype=0x150001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+mar. 18, 2018 03:16:19.87 
+mar. 18, 2018 03:16:19.90 
+mar. 18, 2018 03:16:19.90 ###!!! [Child][MessageChannel] Error: (msgtype=0x2C00F0,name=PContent::Msg_UnstoreAndBroadcastBlobURLUnregistration) Closed channel: cannot send/recv
+mar. 18, 2018 03:16:19.92 
+mar. 18, 2018 03:16:19.92 
+mar. 18, 2018 03:16:19.94 ###!!! [Child][MessageChannel] Error: (msgtype=0x150001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+mar. 18, 2018 03:16:19.94 
+mar. 18, 2018 03:16:19.94 
+mar. 18, 2018 03:16:19.94 ###!!! [Child][MessageChannel] Error: (msgtype=0x150001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+mar. 18, 2018 03:16:19.94 
+mar. 18, 2018 03:16:19.94 
+mar. 18, 2018 03:16:19.94 ###!!! [Child][MessageChannel] Error: (msgtype=0x150001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+mar. 18, 2018 03:16:19.94 
+mar. 18, 2018 03:16:19.94 
+mar. 18, 2018 03:16:19.94 ###!!! [Child][MessageChannel] Error: (msgtype=0x150001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+mar. 18, 2018 03:16:19.94 
+mar. 18, 2018 03:16:19.94 
+mar. 18, 2018 03:16:19.94 ###!!! [Child][MessageChannel] Error: (msgtype=0x150001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+mar. 18, 2018 03:16:19.94 
+mar. 18, 2018 03:16:19.97 
+mar. 18, 2018 03:16:19.97 ###!!! [Child][MessageChannel] Error: (msgtype=0x150001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+mar. 18, 2018 03:16:19.97 
+mar. 18, 2018 03:16:19.97 
+mar. 18, 2018 03:16:19.97 ###!!! [Child][MessageChannel] Error: (msgtype=0x150001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+mar. 18, 2018 03:16:19.97 
+mar. 18, 2018 03:16:19.97 
+mar. 18, 2018 03:16:19.97 ###!!! [Child][MessageChannel] Error: (msgtype=0x150001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+mar. 18, 2018 03:16:19.97 
+mar. 18, 2018 03:16:19.97 
+mar. 18, 2018 03:16:19.97 ###!!! [Child][MessageChannel] Error: (msgtype=0x150001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+mar. 18, 2018 03:16:19.97 
+mar. 18, 2018 03:16:19.99 
+mar. 18, 2018 03:16:19.99 ###!!! [Child][MessageChannel] Error: (msgtype=0x15002B,name=PBrowser::Msg_SetInputContext) Closed channel: cannot send/recv
+mar. 18, 2018 03:16:19.99 

@@ -1,0 +1,24 @@
+package com.pablomonteserin;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+
+public class Main {
+
+	public static void main(String[] args) {
+		try {
+			Class.forName("com.mysql.jdbc.Driver");
+			// Define the data source for the driver
+			String sourceURL = "jdbc:mysql://localhost/personas";
+			// Create a connection through the DriverManager
+			Connection databaseConnection = DriverManager.getConnection(sourceURL, "root", "pp");
+			databaseConnection.close();
+		} catch (ClassNotFoundException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+
+	}
+
+}

@@ -1,0 +1,3 @@
+codigo html
+<%= request.getAttribute("cosasQueVanALaVista") %>
+codigo html

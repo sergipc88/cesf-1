@@ -1,0 +1,4 @@
+activeuserprofiles=PAM-PC;Team
+eclipse.preferences.version=1
+org.eclipse.rse.systemtype.local.systemType.defaultUserId=PAM
+useridperkey=PAM-PC.Local\=PAM;

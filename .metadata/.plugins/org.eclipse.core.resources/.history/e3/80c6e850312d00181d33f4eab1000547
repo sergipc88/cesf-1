@@ -1,0 +1,20 @@
+package com.pablomonteserin.bo;
+
+import org.hibernate.Session;
+import org.hibernate.query.Query;
+
+import com.pablomonteserin.HibernateUtil;
+import com.pablomonteserin.entities.Libro;
+
+public class LibroBO {
+	public Libro getLibroByIsbn(String isbn) {
+		Session session = HibernateUtil.getSessionFactory().openSession();
+	
+		Query hqlQuery = session.createQuery("FROM  Libro");
+
+		session.close();
+		
+		return null;
+		
+	}
+}

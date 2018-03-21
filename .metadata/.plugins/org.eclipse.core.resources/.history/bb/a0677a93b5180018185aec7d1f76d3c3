@@ -1,0 +1,17 @@
+package com.pablomonteserin.hibernateprueba;
+
+public class Main {
+
+	public static void main(String[] args) {
+		Session session = HibernateUtil.getSessionFactory().openSession();
+		Transaction transaction = session.beginTransaction();
+		
+		Alumno alumno = new Alumno();
+		alumno.setNombre("Juan");
+		alumno.setEdad(34);
+		
+		
+		
+	}
+
+}

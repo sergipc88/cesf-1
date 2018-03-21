@@ -1,0 +1,7 @@
+package com.pablomonteserin.bo;
+
+public class LibroBO {
+	public Libro getLibroByIsbn(String isbn) {
+		
+	}
+}

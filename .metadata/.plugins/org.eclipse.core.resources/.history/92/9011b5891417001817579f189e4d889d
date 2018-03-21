@@ -1,0 +1,17 @@
+package com.pablomonteserin;
+
+import java.util.List;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		Servicio servicio = new Servicio();
+		List<Alumno> alumnos = servicio.list();
+		
+		Iterator<Alumno> it = alumnos.iterator();
+		
+		
+	}
+
+}

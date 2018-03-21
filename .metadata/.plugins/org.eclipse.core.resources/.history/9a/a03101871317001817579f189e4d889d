@@ -1,0 +1,48 @@
+package com.pablomonteserin;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.sql.Statement;
+import java.util.ArrayList;
+import java.util.List;
+
+public class Servicio {
+
+	public List<Alumno> list(){
+		Connection databaseConnection = getConnection();
+		ArrayList<Alumno> personas = new ArrayList<Alumno>();
+
+		Statement statement;
+		try {
+			statement = databaseConnection.createStatement();
+			ResultSet personasRS = statement.executeQuery("SELECT * FROM alumno_tabla");
+			while (personasRS.next()){
+				personas.add(personasRS.getString("Nombre"));
+			}
+		} catch (SQLException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+		return null;
+	}
+	
+	public Connection getConnection() {
+		Connection databaseConnection;
+		try {
+			Class.forName("com.mysql.jdbc.Driver");
+			// Define the data source for the driver
+			String sourceURL = "jdbc:mysql://localhost/alumno";
+			// Create a connection through the DriverManager
+			databaseConnection = DriverManager.getConnection(sourceURL, "root", "pp");
+			return databaseConnection;
+		} catch (ClassNotFoundException | SQLException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		return databaseConnection;
+		
+	}
+}

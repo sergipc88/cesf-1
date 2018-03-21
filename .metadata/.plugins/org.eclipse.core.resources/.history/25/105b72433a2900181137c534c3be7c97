@@ -1,0 +1,12 @@
+<%@ page import="com.pablomonteserin.Amor" %>
+
+<h1>El titulo</h1>
+<%
+
+com.pablomonteserin.Amor amor = (com.pablomonteserin.Amor) request.getAttribute("amor");
+
+%>
+
+
+<%= amor.getNombre()%>
+
