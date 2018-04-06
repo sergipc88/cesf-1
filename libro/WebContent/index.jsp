@@ -8,11 +8,13 @@
 </head>
 <body>
 
-
-<form action="Controlador">
-<input type="text" name="isbn">
-<input type="submit">
+<form>
+<input type="text" name="titulo">
+<input type="hidden" name="action" value="alta">
+<input type="submit" >
 </form>
+
+
 
 
 </body>

@@ -149,7 +149,7 @@
              Note: The pattern used is equivalent to using pattern="common" -->
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log" suffix=".txt"/>
 
-      <Context docBase="C:\Users\PAM\Desktop\amor\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="C:\Users\PAM\Desktop\amor\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\amor2" path="/amor2" reloadable="true" source="org.eclipse.jst.jee.server:amor2"/><Context docBase="C:\Users\PAM\Desktop\amor\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\libro" path="/libro" reloadable="true" source="org.eclipse.jst.jee.server:libro"/></Host>
+      <Context docBase="C:\Users\PAM\Desktop\amor\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="C:\Users\PAM\Desktop\amor\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\suma" path="/suma" reloadable="true" source="org.eclipse.jst.jee.server:suma"/></Host>
     </Engine>
   </Service>
 </Server>
