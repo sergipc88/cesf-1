@@ -1,8 +1,5 @@
 INDEX VERSION 1.4+C:\Users\PAM\Desktop\amor\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-3901099328.index
-2669007392.index
-3030505947.index
-2334114426.index
-3181280343.index
 3319486280.index
+649970503.index
 4187104628.index
+2148279181.index
